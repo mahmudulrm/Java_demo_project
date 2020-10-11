@@ -2,4 +2,3 @@
 <h2> Deploying on Kubernetes 80% </h2>
 
 
-
